@@ -1,0 +1,84 @@
+{
+  "ratings": [
+    {
+      "location_name": "Sunny Apartments",
+      "ratings": [
+        {"user_id": 101, "rating": 4.5, "comment": "Great amenities and friendly community."},
+        {"user_id": 102, "rating": 4.0, "comment": "Modern design, but a bit pricey."},
+        {"user_id": 103, "rating": 3.5, "comment": "Nice apartments, but limited parking."}
+      ]
+    },
+    {
+      "location_name": "Downtown Office Space",
+      "ratings": [
+        {"user_id": 104, "rating": 4.0, "comment": "Central location, perfect for startups."},
+        {"user_id": 105, "rating": 4.2, "comment": "Spacious office space and good facilities."},
+        {"user_id": 106, "rating": 3.8, "comment": "Great location, but a bit noisy."}
+      ]
+    },
+    {
+      "location_name": "Riverside Condos",
+      "ratings": [
+        {"user_id": 107, "rating": 4.7, "comment": "Beautiful view and luxurious interiors."},
+        {"user_id": 108, "rating": 4.5, "comment": "Quiet and peaceful living by the river."},
+        {"user_id": 109, "rating": 4.3, "comment": "Expensive, but worth it for the location."}
+      ]
+    },
+    {
+      "location_name": "Tech Hub Offices",
+      "ratings": [
+        {"user_id": 110, "rating": 4.4, "comment": "Innovative space, great for tech companies."},
+        {"user_id": 111, "rating": 4.1, "comment": "Good location, but limited dining options."},
+        {"user_id": 112, "rating": 3.9, "comment": "Modern facilities but high rent."}
+      ]
+    },
+    {
+      "location_name": "Greenwood Villas",
+      "ratings": [
+        {"user_id": 113, "rating": 4.6, "comment": "Spacious and serene, perfect for families."},
+        {"user_id": 114, "rating": 4.2, "comment": "Beautiful area, but a bit remote."},
+        {"user_id": 115, "rating": 4.0, "comment": "Great villas, but needs better maintenance."}
+      ]
+    },
+    {
+      "location_name": "Market Street Retail",
+      "ratings": [
+        {"user_id": 116, "rating": 4.1, "comment": "Busy area with lots of foot traffic."},
+        {"user_id": 117, "rating": 3.9, "comment": "Great for retail, but parking is an issue."},
+        {"user_id": 118, "rating": 3.7, "comment": "Ideal location but rents are rising."}
+      ]
+    },
+    {
+      "location_name": "Harbor Industrial Park",
+      "ratings": [
+        {"user_id": 119, "rating": 3.8, "comment": "Accessible location, but a bit crowded."},
+        {"user_id": 120, "rating": 3.6, "comment": "Good for logistics, average facilities."},
+        {"user_id": 121, "rating": 3.5, "comment": "Satisfactory for industrial use."}
+      ]
+    },
+    {
+      "location_name": "University Apartments",
+      "ratings": [
+        {"user_id": 122, "rating": 4.3, "comment": "Affordable and close to the university."},
+        {"user_id": 123, "rating": 4.1, "comment": "Convenient for students, but noisy."},
+        {"user_id": 124, "rating": 3.9, "comment": "Good value, but limited amenities."}
+      ]
+    },
+    {
+      "location_name": "Pine Tree Warehouse",
+      "ratings": [
+        {"user_id": 125, "rating": 3.7, "comment": "Large space, but a bit far from the city."},
+        {"user_id": 126, "rating": 3.5, "comment": "Functional, but access roads need improvement."},
+        {"user_id": 127, "rating": 3.4, "comment": "Adequate for storage, not much else."}
+      ]
+    },
+    {
+      "location_name": "Central Plaza Retail",
+      "ratings": [
+        {"user_id": 128, "rating": 4.2, "comment": "Prime location with high customer traffic."},
+        {"user_id": 129, "rating": 4.0, "comment": "Great visibility, but rent is steep."},
+        {"user_id": 130, "rating": 3.8, "comment": "Good for business, but competitive area."}
+      ]
+    }
+  ]
+}
